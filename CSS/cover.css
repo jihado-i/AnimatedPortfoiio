@@ -1,0 +1,49 @@
+.warpper {
+    position: relative;
+    width: 66rem;
+    height: 44rem;
+    padding: 1.5rem;
+    animation: show-animate 3s forwards;
+    perspective: 250rem;
+}
+
+@keyframes show-animate {
+
+    0%,
+    30% {
+        opacity: 0;
+        transform: rotate(-10deg);
+    }
+
+    100% {
+        opacity: 1;
+        transform: rotate(0deg);
+    }
+}
+
+.cover {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 50%;
+    height: 100%;
+    background: var(--cover-color);
+    box-shadow: var(--box-shadow);
+    border-top-left-radius: .6rem;
+    border-bottom-left-radius: .6rem;
+    transform-origin: right;
+}
+
+.cover-left {
+    z-index: -1;
+}
+
+.cover.cover-right {
+    z-index: 100;
+    transition: transform 0.8s cubic-bezier(.645, .045, .355, 1);
+}
+
+/*Js Class*/
+.cover.cover-right.turn {
+    transform: rotateY(180deg);
+}
