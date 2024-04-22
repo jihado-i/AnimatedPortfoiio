@@ -1,10 +1,11 @@
-
 # Description
-This project is a static personal page that displays your CV in a beautiful way with very nice animations .
 
+This project is a static personal page that displays your CV in a beautiful way with very nice animations.
 
-# Project goal
-I developed this project to improve my animation skills .
+## Project Goal
 
-# Demo
-[Live Preview](https://jihado-i.github.io/AnimatedPortfoiio/)
+The goal of this project is to enhance animation skills by creating a visually appealing static personal page for displaying a CV.
+
+## Demo
+
+[Live Preview](link_to_live_preview)
