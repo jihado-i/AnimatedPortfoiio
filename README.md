@@ -12,4 +12,4 @@ The primary objective of this project is to hone animation skills through the de
 - **Animation Libraries/Frameworks**: Possibly utilized animation libraries or frameworks such as CSS animations, GSAP (GreenSock Animation Platform), or Anime.js to create fluid and sophisticated animations.
 
 ## Demo
-[Click!, Live Preview](link_to_live_preview)
+[Click! Live Preview](link_to_live_preview)
