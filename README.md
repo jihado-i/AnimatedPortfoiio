@@ -13,5 +13,6 @@ The primary objective of this project is to hone animation skills through the de
 - **JavaScript**: Employed for adding interactive functionality and dynamic behavior to the page.
 - **Animation Libraries/Frameworks**: Possibly utilized animation libraries or frameworks such as CSS animations, GSAP (GreenSock Animation Platform), or Anime.js to create fluid and sophisticated animations.
 
+
 ## Demo
 [Click! Live Preview](link_to_live_preview)
