@@ -7,7 +7,6 @@ The primary objective of this project is to hone animation skills through the de
 
 
 ## Technologies Used
-
 - **HTML5**: Used for structuring the content of the webpage.
 - **CSS3**: Utilized for styling the webpage and implementing animations.
 - **JavaScript**: Employed for adding interactive functionality and dynamic behavior to the page.
