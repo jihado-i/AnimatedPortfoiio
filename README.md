@@ -16,4 +16,4 @@ The primary objective of this project is to hone animation skills through the de
 
 
 ## Demo
-[Click! Live Preview](link_to_live_preview)
+[Click! Live Preview](https://jihado-i.github.io/AnimatedPortfoiio/)
